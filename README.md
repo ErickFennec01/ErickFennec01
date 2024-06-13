@@ -27,8 +27,8 @@ Breve descrição sobre você, suas paixões, interesses, etc.
 ---
 
 ### Contato
-- [LinkedIn](link_linkedin)
-- [E-mail](mailto:seuemail@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/érick-azambuja-da-silva-8393055a/)
+- [E-mail](ericksilvadev.01@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seuusuario&style=flat-square&color=blue" alt=""/>
