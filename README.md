@@ -13,7 +13,7 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 - ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 - ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-
+- ![GIT](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css).
 ---
 
 ### Sobre mim
